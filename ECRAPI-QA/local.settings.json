@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  },
+  "KeyVaultUrl": "https://zccsspkkvd01.vault.azure.net/",
+  "TargetSystem":  "prizem-offshore"
+}
